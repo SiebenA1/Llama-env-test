@@ -1,6 +1,6 @@
 # Llama-env-test
 Hugging Face + Llama 2
-1.	Anaconda 下新建虚拟环境
+1.	Windows 下 Anaconda 中新建虚拟环境
 2.	环境在终端打开，执行
 conda install -c conda-forge huggingface_hub
 3.	检查安装，执行
